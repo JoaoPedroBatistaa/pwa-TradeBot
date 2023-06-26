@@ -1,33 +1,41 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-a54b4f32bdc1ef890ddd.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/cdG4XsiaC6NVemK3zvzoi/_buildManifest.js",
+    "static/cdG4XsiaC6NVemK3zvzoi/_ssgManifest.js"
   ],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-9fc9ab40a062a7008df3.js",
+      "static/chunks/framework-e33dd1c18ec047522465.js",
+      "static/chunks/main-bc5febc9a145c30e3cff.js",
+      "static/chunks/805-4376ab3747d41ed62f40.js",
+      "static/css/3a204956e9de3ed418d3.css",
+      "static/chunks/pages/index-afe520cff58a4b59705d.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-9fc9ab40a062a7008df3.js",
+      "static/chunks/framework-e33dd1c18ec047522465.js",
+      "static/chunks/main-bc5febc9a145c30e3cff.js",
+      "static/css/aec47f4878b048ac7162.css",
+      "static/chunks/pages/_app-a2ac950b3d57fd133650.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-9fc9ab40a062a7008df3.js",
+      "static/chunks/framework-e33dd1c18ec047522465.js",
+      "static/chunks/main-bc5febc9a145c30e3cff.js",
+      "static/chunks/pages/_error-9faf4177fb4e528b4124.js"
+    ],
+    "/components/MyLineChart": [
+      "static/chunks/webpack-9fc9ab40a062a7008df3.js",
+      "static/chunks/framework-e33dd1c18ec047522465.js",
+      "static/chunks/main-bc5febc9a145c30e3cff.js",
+      "static/chunks/805-4376ab3747d41ed62f40.js",
+      "static/chunks/pages/components/MyLineChart-efe1d21211d0c8f84b5d.js"
     ]
   },
   "ampFirstPages": []
